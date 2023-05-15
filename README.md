@@ -33,4 +33,4 @@ Innovative and detail-oriented software developer based in Canada, with a passio
 
 
 ### My 10 year Plan
-I am highly motivated software developer, independantly learning to program and working to switch my career path from retail to software development. I am currently working on web applications, however I am working towards  embedded systems and more scientific roles as an engineer. My plan to accomplish this involves a couple courses that focus on low level systems and hardware architecture, as well as taking on projects that focus on preformance and security.
+I am highly motivated software developer, independantly learning to program and working to switch my career path from retail to software development. I am currently working on web applications, however I am working towards  embedded systems and more scientific roles as an engineer. My plan to accomplish this involves a couple courses that focus on low level systems and hardware architecture, as well as taking on projects that focus on performance and security.
