@@ -27,7 +27,7 @@ Innovative and detail-oriented software developer based in Canada, with a passio
 <br/>
 
 
-![Isaiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaiahpaget&show_icons=true&theme=nightowl) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaiahpaget&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Isaiah's GitHub stats](https://github-readme-stats-git-master-isaiahpaget.vercel.app/api?username=isaiahpaget&show_icons=true&theme=nightowl) [![Top Langs](https://github-readme-stats-git-master-isaiahpaget.vercel.app/api/top-langs/?username=isaiahpaget&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
