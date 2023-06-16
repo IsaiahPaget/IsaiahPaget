@@ -1,7 +1,7 @@
 # Isaiah Paget
 **`Full-Stack Software Developer`**  
 
-Innovative and detail-oriented software developer based in Canada, with a passion for creating frictionless and interactive applications. I have experience in full-stack development, and proven ability to lead successful projects. Check me out on [LinkedIn](https://linkedin.com/in/isaiahpaget), and visit my [portfolio](https://isaiahpaget.ca)!
+Software developer based in Canada, with a passion for creating unique and interactive applications. I have experience in full-stack development. Check me out on [LinkedIn](https://linkedin.com/in/isaiahpaget), and visit my [portfolio](https://isaiahpaget.ca)!
 
 
 ### Languages & Tools
@@ -33,4 +33,4 @@ Innovative and detail-oriented software developer based in Canada, with a passio
 
 
 ### My 10 year Plan
-I am highly motivated software developer, independantly learning to program and working to switch my career path to software development. I am currently working on web applications, however I am working towards  embedded systems and more scientific roles as an engineer. My plan to accomplish this involves a couple courses that focus on low level systems and hardware architecture, as well as taking on projects that focus on performance and security.
+I am currently working on web applications, however I am working towards  embedded systems and more scientific roles as an engineer. My plan to accomplish this involves a couple courses that focus on low level systems and hardware architecture, as well as taking on projects that focus on performance and security.
