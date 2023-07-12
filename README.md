@@ -27,7 +27,3 @@ Software developer based in Canada, with a passion for creating unique and inter
 ![Isaiah's GitHub stats](https://github-readme-stats-git-master-isaiahpaget.vercel.app/api?username=isaiahpaget&show_icons=true&theme=nightowl) [![Top Langs](https://github-readme-stats-git-master-isaiahpaget.vercel.app/api/top-langs/?username=isaiahpaget&theme=nightowl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
-
-
-### My 10 year Plan
-I am currently working on web applications, however I am working towards  embedded systems and more scientific roles as an engineer. My plan to accomplish this involves a couple courses that focus on low level systems and hardware architecture, as well as taking on projects that focus on performance and security.
