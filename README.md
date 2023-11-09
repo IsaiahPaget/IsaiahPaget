@@ -1,7 +1,7 @@
 # Isaiah Paget
-**`Full-Stack Software Developer`**  
+**`Software Engineer`**  
 
-Software developer based in Canada, with a passion for creating unique and interactive applications. I have experience in full-stack development. Check me out on [LinkedIn](https://linkedin.com/in/isaiahpaget), and visit my [portfolio](https://isaiahpaget.ca)!
+Software engineer based in Canada, with a passion for creating unique and interactive applications. I have experience in web, game and tools development. Check me out on [LinkedIn](https://linkedin.com/in/isaiahpaget), and visit my [portfolio](https://isaiahpaget.ca)!
 
 
 ### Languages & Tools
