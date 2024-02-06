@@ -1,7 +1,7 @@
 # Isaiah Paget
-**`Software Engineer`**  
+**`Software Developer`**  
 
-Software engineer based in Canada. At work I use Javascript, HTML/CSS, SQL and OutSystems to build web applications for governments and credit unions all over North America. Some of my daily challenges are: Looking around my cat so I can see the screen, and figuring out why this code isn't working.
+Software developer based in Canada. At work I use Javascript, HTML/CSS, SQL and OutSystems to build web applications for governments and credit unions all over North America. Some of my daily challenges are: Looking around my cat so I can see the screen, and figuring out why this code isn't working.
 
 On the weekends and in my free time I am skateboarding, rock climbing and building projects with tech that excites me. Recently I have been enjoying Python, Java and Typescript for my personal projects. I also have a keen interest in security and low level programming and like to challenge myself with some C every once in a while.
 
