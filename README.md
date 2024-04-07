@@ -21,12 +21,3 @@ Looking forward to connecting with fellow developers and exploring new technolog
 <img align="left" alt="" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
 <img align="left" alt="" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-
-<br/>
-<br/>
-<br/>
-
-
-[![Top Langs](https://github-readme-stats-git-master-isaiahpaget.vercel.app/api/top-langs/?username=isaiahpaget&theme=nightowl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
