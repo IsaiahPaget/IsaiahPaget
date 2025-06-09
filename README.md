@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Alpha Vim User | CEO of Canada | Grounds Keeper</h3>
+  <h3>Alpha Vim User | Mathlete | Grounds Keeper</h3>
 </div>
 
 <div align="center">
