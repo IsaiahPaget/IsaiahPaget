@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Alpha Vim User | Director of Linear Interpolation Across Multiple Dimensions | Grounds Keeper</h3>
+  <h3>Vim Utilitarian | Director of Linear Interpolation Across Multiple Dimensions | Grounds Keeper</h3>
 </div>
 
 <div align="center">
