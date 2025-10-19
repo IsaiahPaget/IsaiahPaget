@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Vim Utilitarian | Director of Linear Interpolation Across Multiple Dimensions </h3>
+  <h3>Vim Utilitarian | Director of Linear Interpolation Across Multilayered Business Domains </h3>
 </div>
 
 <div align="center">
